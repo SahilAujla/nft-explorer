@@ -69,6 +69,3 @@ To get started with this boilerplate, you'll need to have the following software
  ┣ 📜package-lock.json
  ┗ 📜package.json
 ```
-
-Start editing the `pages/index.jsx` file in the `frontend` directory to customize the project according to your own needs!
-# nft-explorer
