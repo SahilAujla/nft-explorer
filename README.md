@@ -118,3 +118,4 @@ The boilerplate consists of two main directories:
 ```
 
 Start editing the `pages/index.jsx` file in the `frontend` directory to customize the project according to your own needs!
+# nft-explorer
